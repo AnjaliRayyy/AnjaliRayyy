@@ -1,3 +1,14 @@
+# Hi there, I'm Anjali Ray 👋
+
+🌟 **Aspiring Web Developer** | **CSE Student at TMSL** | **Tech Enthusiast** 🌟
+
+## About Me
+I'm a passionate Computer Science student with a love for coding and technology. I have experience with several programming languages, including **C**, **C++**, **Java**, and **JavaScript**. Currently, I’m diving into **React** to enhance my web development skills.
+
+## Skills
+- **Programming Languages:** C, C++, Java, JavaScript
+- **Web Development:** HTML, CSS, React
+- **Tools & Technologies:** Git, GitHub, Visual Studio Code, Node.js
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/1266667631818051616) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anjali_rayyy) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anjali-ray-8941b4331) 
