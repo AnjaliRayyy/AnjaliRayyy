@@ -7,7 +7,7 @@ I'm a passionate Computer Science student with a love for coding and technology.
 
 ## Skills
 - **Programming Languages:** C, C++, Java, JavaScript
-- **Web Development:** HTML, CSS, React
+- **Web Development:** HTML, CSS, Bootstrap
 - **Tools & Technologies:** Git, GitHub, Visual Studio Code, Node.js
 
 ## 🌐 Socials:
