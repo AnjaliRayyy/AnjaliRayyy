@@ -1,6 +1,6 @@
 # Hi there, I'm Anjali Ray 👋
 
-🌟 **Aspiring Web Developer** | **CSE Student at TMSL** | **Tech Enthusiast** 🌟
+🌟 **Frontend Developer** | **Aspiring Full stack Developer** | **CSE Student at TMSL** | **Tech Enthusiast** 🌟
 
 ## About Me
 I'm a passionate Computer Science student with a love for coding and technology. I have experience with several programming languages, including **C**, **C++**, **Java**, and **JavaScript**. Currently, I’m diving into **React** to enhance my web development skills.
